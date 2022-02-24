@@ -1,16 +1,3 @@
 # klubivr3
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+KlubiVr3 eshte krijuar kur ne gjimnaz kam organizuar klubin e programimit te shkolles, eshte versioni i 3 nga 5. Versioni 4 dhe 5 jane afersisht identike. Me synim integrimin e pjesetareve te tjere e kam lene ne doren e tyre vazhdimesine e projektit. U themelua me idene qe pjesetaret te kishin nje platforme te tyren ku te shperndanin problemet dhe arritjet e tyre ne fushen e programimit.
